@@ -1,2 +1,2 @@
 # Car_Rental-Django
-django bases car rental system
+django based car rental system platform
